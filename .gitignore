@@ -1,0 +1,9 @@
+node_modules/
+.deps/
+dist/
+coverage/
+.context/
+benchmarks/**/run-*/
+*.log
+.DS_Store
+Thumbs.db

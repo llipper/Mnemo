@@ -1,0 +1,7 @@
+src/
+tests/
+.github/
+PROJETO.md
+IMPLEMENTATION.md
+*.config.*
+tsconfig.json
