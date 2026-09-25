@@ -50,6 +50,9 @@ ctx codex
 
 Running `ctx` without an agent opens a selector containing the installed agent CLIs.
 
+For the complete command sequence in Portuguese, see
+[`GUIA_DE_USO.md`](./GUIA_DE_USO.md).
+
 ## Commands
 
 | Command | Purpose |
