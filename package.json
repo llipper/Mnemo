@@ -36,6 +36,14 @@
     "cli"
   ],
   "license": "Apache-2.0",
+  "homepage": "https://github.com/llipper/Mnemo#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llipper/Mnemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/llipper/Mnemo/issues"
+  },
   "dependencies": {
     "@clack/prompts": "^1.8.1",
     "@modelcontextprotocol/sdk": "^1.30.1",
